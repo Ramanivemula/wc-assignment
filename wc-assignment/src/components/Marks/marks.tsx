@@ -1,4 +1,3 @@
-import React from "react";
 import type { Question } from "../../data/questions";
 
 interface Props {
